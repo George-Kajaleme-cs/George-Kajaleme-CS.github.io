@@ -239,7 +239,8 @@ th {
     page-break-after: avoid;
   }
   .navbar {
-    display: none;
+    color: black;
+    display: .text-muted
   }
   .btn > .caret,
   .dropup > .btn > .caret {
